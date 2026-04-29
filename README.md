@@ -1,6 +1,9 @@
 # qb-menu
 Menu System for the QBCore Framework
-
+![](https://img.shields.io/github/downloads/communityox/ox_target/total?logo=github)
+![](https://img.shields.io/github/downloads/communityox/ox_target/latest/total?logo=github)
+![](https://img.shields.io/github/contributors/communityox/ox_target?logo=github)
+![](https://img.shields.io/github/v/release/communityox/ox_target?logo=github) 
 This is a modified version of **[NH Context](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-context-menu-dynamic-event-firing-menu/2564083)** by **[NeroHiro](https://github.com/nerohiro)**
 
 --[[
